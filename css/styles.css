@@ -10884,7 +10884,7 @@ body {
 
 hr.divider {
   height: 0.2rem;
-  max-width: 3.25rem;
+  max-width: 25rem;
   margin: 1.5rem auto;
   background-color: #417DC4;
   opacity: 1;
